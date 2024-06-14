@@ -31,4 +31,3 @@
 
 ## License
 
-MIT © [@gortron](https://github.com/gortron)
